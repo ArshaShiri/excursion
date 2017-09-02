@@ -20,7 +20,8 @@ a{
     color: aquamarine;    
 }
 
-.text{
+.footer p{
     font-size: 21px;
-    color: gray;    
+    color: gray; 
+    text-align:right;    
 }
